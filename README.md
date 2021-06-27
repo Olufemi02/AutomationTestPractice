@@ -1,1 +1,1 @@
-# AutomationTestPractice
+# TestAutomation
